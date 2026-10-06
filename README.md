@@ -14,15 +14,15 @@ x install awsesh
 
 ## Code insight
 
-Total: **18,567** lines of code across **155** files in the top 5 languages.
+Total: **18,722** lines of code across **160** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 7,131 | 0 | 7 | 43 |
-| TypeScript | 5,731 | 129 | 922 | 64 |
+| Json | 7,138 | 0 | 7 | 43 |
+| TypeScript | 5,879 | 129 | 925 | 69 |
 | Tsx | 5,700 | 15 | 597 | 43 |
 | Toml | 5 | 0 | 1 | 2 |
-| Markdown | 0 | 399 | 237 | 3 |
+| Markdown | 0 | 421 | 244 | 3 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **18,567** lines of code across **155** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.17` (2026-09-24)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-10-06
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 140 · **Forks**: 6 · **Open issues**: 19 · **Contributors**: 8
+- **Stars**: 140 · **Forks**: 5 · **Open issues**: 19 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 51 · **Open PRs**: 0 · **Closed issues**: 18 · **Open issues**: 1 · **Commits**: 162
+- **Releases**: 67 · **Merged PRs**: 55 · **Open PRs**: 0 · **Closed issues**: 18 · **Open issues**: 1 · **Commits**: 170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 5 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-05 | 14 | 13 | 0 | 1 | 1 | 20 |
-| 90d | 2026-07-06 | 14 | 13 | 0 | 1 | 1 | 20 |
-| last180d | 2026-04-07 | 29 | 22 | 0 | 4 | 1 | 38 |
-| 360d | 2025-10-09 | 49 | 26 | 0 | 5 | 1 | 42 |
-| last720d | 2024-10-14 | 67 | 51 | 0 | 18 | 1 | 162 |
+| 30d | 2026-09-06 | 5 | 8 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-07 | 14 | 17 | 0 | 1 | 1 | 25 |
+| 90d | 2026-07-08 | 14 | 17 | 0 | 1 | 1 | 25 |
+| last180d | 2026-04-09 | 29 | 26 | 0 | 4 | 1 | 43 |
+| 360d | 2025-10-11 | 49 | 30 | 0 | 5 | 1 | 47 |
+| last720d | 2024-10-16 | 67 | 55 | 0 | 18 | 1 | 170 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for awsesh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:05:23Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:54:48Z._
