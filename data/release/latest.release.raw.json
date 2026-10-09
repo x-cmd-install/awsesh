@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 29982073,
       "digest": "sha256:5b005a1003fe00396e10973198a28b746f1f505ba57282d3cadd7833d4d6eadc",
-      "download_count": 3,
+      "download_count": 12,
       "created_at": "2026-10-08T06:51:40Z",
       "updated_at": "2026-10-08T06:51:43Z",
       "browser_download_url": "https://github.com/elva-labs/awsesh/releases/download/v1.1.3/awsesh-darwin-arm64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 31732262,
       "digest": "sha256:799d5da959354f926111608456e5a1384baff65442361dfbd78cc9cd08ed2f68",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-08T06:51:44Z",
       "updated_at": "2026-10-08T06:51:46Z",
       "browser_download_url": "https://github.com/elva-labs/awsesh/releases/download/v1.1.3/awsesh-desktop-darwin-arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 51043930,
       "digest": "sha256:61bd3281e55ac8d9e033ccd4d65ec5b87fb54018209d14ffcf828115a6a60368",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-08T06:51:40Z",
       "updated_at": "2026-10-08T06:51:44Z",
       "browser_download_url": "https://github.com/elva-labs/awsesh/releases/download/v1.1.3/awsesh-linux-x64-baseline-musl.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 46330419,
       "digest": "sha256:04acf8c812a77a33323f2ad79885880d8feb6fdcfa0ae538e932dddb65619da9",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-08T06:51:35Z",
       "updated_at": "2026-10-08T06:51:40Z",
       "browser_download_url": "https://github.com/elva-labs/awsesh/releases/download/v1.1.3/awsesh-linux-x64.tar.gz"
