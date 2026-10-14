@@ -41,18 +41,18 @@ Total: **25,755** lines of code across **186** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 68 · **Open PRs**: 1 · **Closed issues**: 18 · **Open issues**: 1 · **Commits**: 228
+- **Releases**: 71 · **Merged PRs**: 68 · **Open PRs**: 3 · **Closed issues**: 18 · **Open issues**: 1 · **Commits**: 228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 6 | 20 | 1 | 0 | 0 | 53 |
-| last60d | 2026-08-14 | 18 | 30 | 1 | 1 | 1 | 69 |
-| 90d | 2026-07-15 | 18 | 30 | 1 | 1 | 1 | 69 |
-| last180d | 2026-04-16 | 33 | 39 | 1 | 4 | 1 | 87 |
-| 360d | 2025-10-18 | 53 | 42 | 1 | 5 | 1 | 91 |
-| last720d | 2024-10-23 | 71 | 68 | 1 | 18 | 1 | 228 |
+| 30d | 2026-09-14 | 6 | 20 | 3 | 0 | 0 | 53 |
+| last60d | 2026-08-15 | 18 | 30 | 3 | 1 | 1 | 69 |
+| 90d | 2026-07-16 | 18 | 30 | 3 | 1 | 1 | 69 |
+| last180d | 2026-04-17 | 33 | 39 | 3 | 4 | 1 | 87 |
+| 360d | 2025-10-19 | 53 | 42 | 3 | 5 | 1 | 91 |
+| last720d | 2024-10-24 | 71 | 68 | 3 | 18 | 1 | 228 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for awsesh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:23:07Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:12:33Z._
