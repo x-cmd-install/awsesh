@@ -47,12 +47,12 @@ Total: **30,030** lines of code across **198** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 5 | 16 | 1 | 0 | 0 | 19 |
-| last60d | 2026-09-16 | 12 | 39 | 2 | 0 | 0 | 80 |
-| 90d | 2026-08-17 | 24 | 49 | 2 | 1 | 1 | 96 |
-| last180d | 2026-05-19 | 31 | 57 | 2 | 3 | 1 | 112 |
-| 360d | 2025-11-20 | 57 | 59 | 2 | 5 | 1 | 116 |
-| last720d | 2024-11-25 | 77 | 87 | 2 | 18 | 1 | 272 |
+| 30d | 2026-10-17 | 5 | 16 | 1 | 0 | 0 | 19 |
+| last60d | 2026-09-17 | 12 | 39 | 2 | 0 | 0 | 80 |
+| 90d | 2026-08-18 | 24 | 49 | 2 | 1 | 1 | 96 |
+| last180d | 2026-05-20 | 31 | 57 | 2 | 3 | 1 | 112 |
+| 360d | 2025-11-21 | 57 | 59 | 2 | 5 | 1 | 116 |
+| last720d | 2024-11-26 | 77 | 87 | 2 | 18 | 1 | 272 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for awsesh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:15:13Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:58:52Z._
