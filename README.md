@@ -14,14 +14,14 @@ x install awsesh
 
 ## Code insight
 
-Total: **30,030** lines of code across **198** files in the top 5 languages.
+Total: **30,126** lines of code across **199** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 8,576 | 159 | 1,094 | 91 |
+| TypeScript | 8,613 | 156 | 1,097 | 92 |
 | Rust | 7,750 | 34 | 222 | 11 |
-| Json | 7,205 | 0 | 7 | 47 |
-| Tsx | 6,393 | 19 | 664 | 45 |
+| Json | 7,210 | 0 | 7 | 47 |
+| Tsx | 6,447 | 19 | 663 | 45 |
 | Svg | 57 | 0 | 0 | 4 |
 
 ## Source
@@ -31,8 +31,8 @@ Total: **30,030** lines of code across **198** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.4.3` (2026-11-12)
-- **Last commit**: 2026-11-12
+- **Latest**: `v1.4.5` (2026-11-18)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 16
 
 ## Popularity
@@ -41,39 +41,39 @@ Total: **30,030** lines of code across **198** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 87 · **Open PRs**: 2 · **Closed issues**: 18 · **Open issues**: 1 · **Commits**: 272
+- **Releases**: 79 · **Merged PRs**: 101 · **Open PRs**: 3 · **Closed issues**: 18 · **Open issues**: 1 · **Commits**: 288
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 5 | 16 | 1 | 0 | 0 | 19 |
-| last60d | 2026-09-17 | 12 | 39 | 2 | 0 | 0 | 80 |
-| 90d | 2026-08-18 | 24 | 49 | 2 | 1 | 1 | 96 |
-| last180d | 2026-05-20 | 31 | 57 | 2 | 3 | 1 | 112 |
-| 360d | 2025-11-21 | 57 | 59 | 2 | 5 | 1 | 116 |
-| last720d | 2024-11-26 | 77 | 87 | 2 | 18 | 1 | 272 |
+| 30d | 2026-10-20 | 7 | 30 | 2 | 0 | 0 | 34 |
+| last60d | 2026-09-20 | 14 | 53 | 3 | 0 | 0 | 95 |
+| 90d | 2026-08-21 | 26 | 63 | 3 | 1 | 1 | 111 |
+| last180d | 2026-05-23 | 33 | 71 | 3 | 3 | 1 | 127 |
+| 360d | 2025-11-24 | 59 | 73 | 3 | 5 | 1 | 131 |
+| last720d | 2024-11-29 | 79 | 101 | 3 | 18 | 1 | 288 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [awsesh-core-1.4.3.tgz](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-core-1.4.3.tgz) | 158.4 KiB | `native/unknown` |
-| [awsesh-darwin-arm64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-darwin-arm64.zip) | 43.0 MiB | `native/darwin/arm64` |
-| [awsesh-darwin-x64-baseline.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-darwin-x64-baseline.zip) | 45.5 MiB | `native/darwin/x64` |
-| [awsesh-darwin-x64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-darwin-x64.zip) | 45.5 MiB | `native/darwin/x64` |
-| [awsesh-desktop-darwin-arm64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-desktop-darwin-arm64.zip) | 44.8 MiB | `native/darwin/arm64` |
-| [awsesh-desktop-win32-x64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-desktop-win32-x64.zip) | 110.9 MiB | `native/win/x64` |
-| [awsesh-linux-arm64-musl.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-linux-arm64-musl.tar.gz) | 61.3 MiB | `native/linux/arm64/musl` |
-| [awsesh-linux-arm64.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-linux-arm64.tar.gz) | 58.3 MiB | `native/linux/arm64` |
-| [awsesh-linux-x64-baseline-musl.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-linux-x64-baseline-musl.tar.gz) | 62.2 MiB | `native/unknown` |
-| [awsesh-linux-x64-baseline.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-linux-x64-baseline.tar.gz) | 58.7 MiB | `native/unknown` |
-| [awsesh-linux-x64-musl.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-linux-x64-musl.tar.gz) | 62.2 MiB | `native/unknown` |
-| [awsesh-linux-x64.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-linux-x64.tar.gz) | 58.7 MiB | `native/unknown` |
-| [awsesh-windows-x64-baseline.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-windows-x64-baseline.zip) | 56.2 MiB | `native/win/x64` |
-| [awsesh-windows-x64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/awsesh-windows-x64.zip) | 56.2 MiB | `native/win/x64` |
-| [release.json](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/release.json) | 123 B | `other` |
-| [SHA256SUMS](https://github.com/elva-labs/awsesh/releases/download/v1.4.3/SHA256SUMS) | 1.4 KiB | `other` |
+| [awsesh-core-1.4.5.tgz](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-core-1.4.5.tgz) | 185.9 KiB | `native/unknown` |
+| [awsesh-darwin-arm64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-darwin-arm64.zip) | 44.7 MiB | `native/darwin/arm64` |
+| [awsesh-darwin-x64-baseline.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-darwin-x64-baseline.zip) | 47.4 MiB | `native/darwin/x64` |
+| [awsesh-darwin-x64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-darwin-x64.zip) | 47.4 MiB | `native/darwin/x64` |
+| [awsesh-desktop-darwin-arm64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-desktop-darwin-arm64.zip) | 44.8 MiB | `native/darwin/arm64` |
+| [awsesh-desktop-win32-x64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-desktop-win32-x64.zip) | 111.0 MiB | `native/win/x64` |
+| [awsesh-linux-arm64-musl.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-linux-arm64-musl.tar.gz) | 54.6 MiB | `native/linux/arm64/musl` |
+| [awsesh-linux-arm64.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-linux-arm64.tar.gz) | 55.1 MiB | `native/linux/arm64` |
+| [awsesh-linux-x64-baseline-musl.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-linux-x64-baseline-musl.tar.gz) | 55.4 MiB | `native/unknown` |
+| [awsesh-linux-x64-baseline.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-linux-x64-baseline.tar.gz) | 55.5 MiB | `native/unknown` |
+| [awsesh-linux-x64-musl.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-linux-x64-musl.tar.gz) | 55.4 MiB | `native/unknown` |
+| [awsesh-linux-x64.tar.gz](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-linux-x64.tar.gz) | 55.5 MiB | `native/unknown` |
+| [awsesh-windows-x64-baseline.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-windows-x64-baseline.zip) | 58.5 MiB | `native/win/x64` |
+| [awsesh-windows-x64.zip](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-windows-x64.zip) | 58.5 MiB | `native/win/x64` |
+| [release.json](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/release.json) | 123 B | `other` |
+| [SHA256SUMS](https://github.com/elva-labs/awsesh/releases/download/v1.4.5/SHA256SUMS) | 1.4 KiB | `other` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for awsesh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:58:52Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:48:28Z._
