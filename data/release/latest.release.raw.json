@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 46870277,
       "digest": "sha256:34fab520acacc70c05395c23577401ad67f4d0b6d94fdaf4cefc17f68e720186",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-18T17:22:47Z",
       "updated_at": "2026-11-18T17:22:49Z",
       "browser_download_url": "https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-darwin-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 58122502,
       "digest": "sha256:71d55e89d3668a051046653f93e1fe6e33f1d6c650f9159f1b2537669c2a6dce",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-18T17:22:46Z",
       "updated_at": "2026-11-18T17:22:50Z",
       "browser_download_url": "https://github.com/elva-labs/awsesh/releases/download/v1.4.5/awsesh-linux-x64-baseline-musl.tar.gz"
